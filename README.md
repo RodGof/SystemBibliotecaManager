@@ -35,7 +35,7 @@ http://localhost:8080
 
 ## Estrutura do Projeto
 
-```├── src
+├── src
 │   ├── main
 │   │   ├── java
 │   │   │   └── com
