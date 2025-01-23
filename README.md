@@ -17,7 +17,7 @@ Este projeto é um sistema de gerenciamento de biblioteca desenvolvido em Java c
 
 ## Como Executar o Projeto
 Clone o repositório:
-   ```sh
+   sh
    git clone https://github.com/usuario/repositorio.git
    cd repositorio
 
