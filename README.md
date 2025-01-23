@@ -19,7 +19,7 @@ Este projeto é um sistema de gerenciamento de biblioteca desenvolvido em Java c
 Clone o repositório:
    ```sh
    git clone https://github.com/usuario/repositorio.git
-   cd repositorio ```
+   cd repositorio
 
 ## Configure o banco de dados MySQL:
 
@@ -34,8 +34,8 @@ mvn spring-boot:run
 http://localhost:8080
 
 ## Estrutura do Projeto
-```
-├── src
+
+```├── src
 │   ├── main
 │   │   ├── java
 │   │   │   └── com
@@ -52,7 +52,7 @@ http://localhost:8080
 │   │       └── com
 │   │           └── exemplo
 │   │               └── biblioteca
-│   │                   └── ApplicationTests.java ```
+│   │                   └── ApplicationTests.java
 
 ## Funcionalidades
 Gerenciamento de livros (adicionar, editar, excluir)
