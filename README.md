@@ -16,7 +16,7 @@ Este projeto é um sistema de gerenciamento de biblioteca desenvolvido em Java c
 - **MySQL** instalado e configurado
 
 ## Como Executar o Projeto
-1. Clone o repositório:
+Clone o repositório:
    ```sh
    git clone https://github.com/usuario/repositorio.git
    cd repositorio
@@ -34,6 +34,7 @@ mvn spring-boot:run
 http://localhost:8080
 
 ## Estrutura do Projeto
+```
 ├── src
 │   ├── main
 │   │   ├── java
