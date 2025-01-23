@@ -18,7 +18,7 @@ Este projeto é um sistema de gerenciamento de biblioteca desenvolvido em Java c
 ## Como Executar o Projeto
 Clone o repositório:
    sh
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/RodGof/SystemBibliotecaManager.git
    cd repositorio
 
 ## Configure o banco de dados MySQL:
